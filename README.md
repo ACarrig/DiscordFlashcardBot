@@ -8,3 +8,4 @@ The .pmx file contains dependencies and repositories copied from the discord
   aforementioned sections will likely be different (b/c of being newer versions)
   
 The only command a user needs to know is -Commands to start using the bot  
+  once it has been created & added to the discord server of choice
