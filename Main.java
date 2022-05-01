@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) throws Exception{
 
-        JDA jda = JDABuilder.createDefault("OTA3MzAyNDY4MDY3NjU5ODU2.YYlNRQ.iChWadfKoMnaV3sIBsS_eYKj-7Y").build();
+        JDA jda = JDABuilder.createDefault("KEY FROM DISCORD WEBSITE -- UNIQUE TO EACH BOT").build();
 
         jda.addEventListener(new FlashCards());
     }
